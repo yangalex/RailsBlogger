@@ -1,5 +1,3 @@
 == README
 
 Ruby on Rails project built while following The Odin Project (http://www.theodinproject.com/) curriculum of web development.
-
-<tt>rake doc:app</tt>.
